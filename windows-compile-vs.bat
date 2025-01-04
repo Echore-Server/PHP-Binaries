@@ -307,6 +307,7 @@ call configure^
  --with-mysqlnd^
  --with-openssl^
  --with-pcre-jit^
+ --with-ffi^
  --with-pmmpthread=shared^
  --with-pmmpthread-sockets^
  --with-simplexml^
